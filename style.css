@@ -59,7 +59,7 @@
     display: block;
     width: 30px;
     height: 30px;
-    background-image: url(images/bars.svg);
+    background-image: url(bars.svg);
     background-color: white;
 }
 
@@ -114,7 +114,7 @@
 
 .header__title__picture{
     width: 50%;
-    background-image: url(images/philip-martin-5aGUyCW_PJw-unsplash.jpg);
+    background-image: url(philip-martin-5aGUyCW_PJw-unsplash.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -264,7 +264,7 @@
 
 .main__featured__two__content__left__picture{
     height: 300px;
-    background-image: url(images/Screen\ Shot\ 2560-08-18\ at\ 4.23.48\ PM.jpg);
+    background-image: url(Screen\ Shot\ 2560-08-18\ at\ 4.23.48\ PM.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -307,7 +307,7 @@
 
 .main__featured__two__content__right__picture{
     height: 300px;
-    background-image: url(images/biocarbon-drone.jpg.650x0_q70_crop-smart.jpg);
+    background-image: url(biocarbon-drone.jpg.650x0_q70_crop-smart.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -367,7 +367,7 @@
 
 .main__featured__three__01_picture{
     height: 200px;
-    background-image: url(images/img-1.jpg);
+    background-image: url(img-1.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -386,7 +386,7 @@
 
 .main__featured__three__02_picture{
     height: 200px;
-    background-image: url(images/img-2.jpg);
+    background-image: url(img-2.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -405,7 +405,7 @@
 
 .main__featured__three__03_picture{
     height: 200px;
-    background-image: url(images/img-3.jpg);
+    background-image: url(img-3.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -469,7 +469,7 @@
 .main__proposion__picture{
     width: 50%;
     height: 300px;
-    background-image: url(images/photo-1520781359717-3eb98461c9fe.jpg);
+    background-image: url(photo-1520781359717-3eb98461c9fe.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -613,7 +613,7 @@
 
 .main__interviews__three__01_picture{
     height: 200px;
-    background-image: url(images/img-5.jpg);
+    background-image: url(img-5.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -632,7 +632,7 @@
 
 .main__interviews__three__02_picture{
     height: 200px;
-    background-image: url(images/img-6.jpg);
+    background-image: url(img-6.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -651,7 +651,7 @@
 
 .main__interviews__three__03_picture{
     height: 200px;
-    background-image: url(images/img-7.jpg);
+    background-image: url(img-7.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -729,7 +729,7 @@
 
 .main__news__three__01_picture{
     height: 200px;
-    background-image: url(images/Screen\ Shot\ 2560-08-18\ at\ 4.38.56\ PM\ Copy\ 5.jpg);
+    background-image: url(Screen\ Shot\ 2560-08-18\ at\ 4.38.56\ PM\ Copy\ 5.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -748,7 +748,7 @@
 
 .main__news__three__02_picture{
     height: 200px;
-    background-image: url(images/Screen\ Shot\ 2560-08-18\ at\ 4.38.56\ PM\ Copy\ 6.jpg);
+    background-image: url(Screen\ Shot\ 2560-08-18\ at\ 4.38.56\ PM\ Copy\ 6.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -767,7 +767,7 @@
 
 .main__news__three__03_picture{
     height: 200px;
-    background-image: url(images/Screen\ Shot\ 2560-08-18\ at\ 4.39.04\ PM\ Copy\ 3.jpg);
+    background-image: url(Screen\ Shot\ 2560-08-18\ at\ 4.39.04\ PM\ Copy\ 3.jpg);
     background-size: cover;
     background-position: center;
 }
