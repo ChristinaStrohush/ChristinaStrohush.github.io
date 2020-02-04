@@ -67,6 +67,10 @@
     width: 300px;
 }
 
+[type="checkbox"]:checked .header__nav__burger::before{
+    background-image: url(multiply.svg);
+}
+
 .header__nav__menu{
     width: 0;
     height: 250px;
